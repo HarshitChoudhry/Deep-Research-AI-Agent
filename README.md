@@ -22,7 +22,7 @@ This modular architecture is powered by LangGraph, which coordinates the workflo
 git clone https://github.com/HarshitChoudhry/Deep-Research-AI-Agent.git
 cd Deep-Research-AI-Agent
 python -m venv myenv
-myenv\Scripts\activate     # On Windows
+myenv\Scripts\activate 
 pip install -r requirements.txt 
 
 ### 2. Set Up Environment Variables
@@ -30,6 +30,7 @@ pip install -r requirements.txt
 Create a .env file in the root directory and add your API keys:
 
 GROQ_API_KEY=your_groq_api_key
+
 TAVILY_API_KEY=your_tavily_api_key
 
 ### 3. Run the Web Interface
