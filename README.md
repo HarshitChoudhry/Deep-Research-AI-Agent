@@ -19,11 +19,11 @@ This modular architecture is powered by LangGraph, which coordinates the workflo
 
 ### 1. Clone and Setup Environment
 
-git clone https://github.com/HarshitChoudhry/Deep-Research-AI-Agent.git
-cd Deep-Research-AI-Agent
-python -m venv myenv
-myenv\Scripts\activate 
-pip install -r requirements.txt 
+- git clone https://github.com/HarshitChoudhry/Deep-Research-AI-Agent.git
+- cd Deep-Research-AI-Agent
+- python -m venv myenv
+- myenv\Scripts\activate 
+- pip install -r requirements.txt 
 
 ### 2. Set Up Environment Variables
 
