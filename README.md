@@ -39,10 +39,10 @@ python app.py
 
 ## 🛠️ Tech Stack
 
-LangChain – Framework for building agentic LLM applications
-LangGraph – State graph management for coordinating agents
-Groq API – Ultra-fast inference with LLaMA 3.1 (8B) for answer generation
-Tavily – Real-time web search for up-to-date research data
-Gradio – User-friendly UI for interaction
+- **LangChain** – Framework for building agentic LLM applications
+- **LangGraph** – State graph management for coordinating agents
+- **Groq API** – Ultra-fast inference with LLaMA 3.1 (8B) for answer generation
+- **Tavily**  – Real-time web search for up-to-date research data
+- **Gradio**  – User-friendly UI for interaction
 
 
