@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+myenv/
+*.env
+*.log
+
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
+
+# Gradio Cache
+gradio_cached_examples/
+
+
+
